@@ -25,9 +25,9 @@
 
 /* Begin PBXFileReference section */
 		DD91374C2A5C09F300FFE416 /* KString */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = KString; sourceTree = BUILT_PRODUCTS_DIR; };
-		DD91374F2A5C09F300FFE416 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
-		DD9137582A5C0ABA00FFE416 /* KString.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = KString.cpp; sourceTree = "<group>"; };
-		DD9137592A5C0ABA00FFE416 /* KString.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = KString.hpp; sourceTree = "<group>"; };
+		DD91374F2A5C09F300FFE416 /* main.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; lineEnding = 2; path = main.cpp; sourceTree = "<group>"; usesTabs = 1; };
+		DD9137582A5C0ABA00FFE416 /* KString.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; lineEnding = 2; path = KString.cpp; sourceTree = "<group>"; usesTabs = 1; };
+		DD9137592A5C0ABA00FFE416 /* KString.hpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; lineEnding = 2; path = KString.hpp; sourceTree = "<group>"; usesTabs = 1; };
 		DD91375B2A5C0B2900FFE416 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 

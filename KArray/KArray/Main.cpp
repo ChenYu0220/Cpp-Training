@@ -19,6 +19,19 @@ int main()
 	int index = arr.findIndex(1);
 	cout << index << endl; // -1
 
+	cout << "----------KCustomArray----------" << endl;
+	auto karr = KCustomArray<int>();
+	karr.reverse(4);
+	karr.push(1);
+	karr.push(2);
+	karr.insert(1, 3);
+	karr.remove(1);
+	cout << karr << endl;// 1
+	karr.pop();
+	karr.clear();
+	index = karr.findIndex(1);
+	cout << index << endl; // -1
+
 	cout << "----------CustomList----------" << endl;
 	auto list1 = CustomList<int>(); // Construct
 	auto node1 = list1.push(1);
@@ -29,5 +42,18 @@ int main()
 	list1.remove(node2);
 	list1.display(); // 1,3
 	list1.popAll();
+
+	cout << "----------KCustomList----------" << endl;
+	auto list2 = KCustomList<int>();
+	auto node4 = list2.push(1);
+	auto node5 = list2.push(2);
+	auto node6 = list2.insert(node5, 3);
+	auto ret2 = list2.find(2);
+	cout << ret2->data << endl;// 2
+	list2.remove(node5);
+	list2.display(); // 1,3
+	list2.popAll();
+
+
 	return 0; // Destruct
 }

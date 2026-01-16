@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="ReverseList/ReverseList.vcxproj" Id="8d760976-e0b8-43bb-bccd-f642f2c27d96" />
+</Solution>

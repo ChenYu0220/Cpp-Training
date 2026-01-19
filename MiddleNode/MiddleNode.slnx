@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="MiddleNode/MiddleNode.vcxproj" />
+  <Project Path="MiddleNode/MiddleNode.vcxproj" Id="96c6409a-f657-4d04-a8d0-7a0f2b799485" />
 </Solution>

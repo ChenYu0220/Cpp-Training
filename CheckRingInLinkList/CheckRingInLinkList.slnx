@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="CheckRingInLinkList/CheckRingInLinkList.vcxproj" />
+  <Project Path="CheckRingInLinkList/CheckRingInLinkList.vcxproj" Id="65945edc-eb22-4e46-b0f2-b8159404ce4c" />
 </Solution>
